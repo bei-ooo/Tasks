@@ -2,7 +2,7 @@
 Geek 
 ## 仓库目录索引
 ### 考核一
-- [GitHub学习文件（初步了解） (1)](GitHub学习文件（初步了解） (1).md)
+- [GitHub学习文件（初步了解） (1)](GitHub学习文件（初步了解）(1).md)
 - [Markdown学习笔记](Markdown学习笔记.md)
 - [Markdown联系文档](Markdown联系文档.md)
 - [Markdown进阶笔记](Markdown进阶笔记.md)
