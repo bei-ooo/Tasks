@@ -8,7 +8,6 @@ Geek
 - [Markdown进阶笔记](Markdown进阶笔记.md)
 - [第一次使用的问题解决记录](第一次使用的问题解决记录.md)
 - [美化个人Profile README仓库](美化个人ProfileREADME仓库.md)
-
 ### 考核二
 - [Git学习笔记](Git学习笔记.md)
 - [Git联系文档（hello.md)](hello.md)
